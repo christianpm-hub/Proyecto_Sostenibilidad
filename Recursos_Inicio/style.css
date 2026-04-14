@@ -89,7 +89,6 @@ header .container .Call-action .button-container {
 
 header .container .Call-action .button-container button {
     background-color: #4e3b31;
-    
     font-weight: bold;
     font-size: 15px;
     border-radius: 7px;
@@ -133,7 +132,7 @@ footer .footer-container .redes-sociales img:hover {
 
 footer .footer-container .footer-items {
     display: flex;
-    gap: 30%;
+    gap: 10%;
     text-align: center;
     align-items: center;
 }
